@@ -40,8 +40,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `user_name`, `password`, `name`) VALUES
-(3, 'ela', '202cb962ac59075b964b07152d234b70', 'Ela'),
-(4, 'elias', '202cb962ac59075b964b07152d234b70', 'elias');
+(3, 'ziko', '202cb962ac59075b964b07152d234b70', 'ziko'),
+(4, 'zaax', '202cb962ac59075b964b07152d234b70', 'zaax');
 
 --
 -- Indexes for dumped tables

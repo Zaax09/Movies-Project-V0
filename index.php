@@ -12,8 +12,8 @@
 			 ">
 
 
-     <form action="login.php" method="post">
-     	<h2>LOGIN</h2>
+     <form style="background-color: #1f1f1f; border: none;" action="login.php" method="post">
+     	<h2 style="color: #fff;">LOGIN</h2>
      	<?php if (isset($_GET['error'])) { ?>
      		<p class="error"><?php echo $_GET['error']; ?></p>
      	<?php } ?>

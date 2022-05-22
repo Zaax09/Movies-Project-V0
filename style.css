@@ -12,6 +12,7 @@ body {
 *{
 	font-family: sans-serif;
 	box-sizing: border-box;
+	
 }
 
 form {
@@ -19,6 +20,7 @@ form {
 	border: 2px solid #ccc;
 	padding: 30px;
 	background: #fff;
+	
 	border-radius: 15px;
 }
 
